@@ -10,7 +10,7 @@ This game follows the adventure of the player (you!) as Aling Nena's grandchild 
 
 - Aling Nena, your grandmother
 - Lita and Boy, your friends 
-- Mang Bert and Aling Tasya, Aling Nena's *suki* (loyal customers) in her *sari-sari* store (a small grocery store)
+- Bert and Tasya, Aling Nena's *suki* (loyal customers) in her *sari-sari* store (a small grocery store)
 
 The story takes places in various **scenes**:
 
