@@ -18,7 +18,9 @@ The following should go inside `_sidebar.md`  in our docsify.
   - [Tutorial Part 4](scene4.md)
   - [Tutorial Part 5 - Ending](scene567.md)
 
-Game code and assets [here](http://bit.ly/wwcodemanila-renpy).
+Game code and assets:
+ - [assets](assets)
+ - [game](game)
 
 
 
