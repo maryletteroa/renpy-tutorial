@@ -1,5 +1,7 @@
 Repo to be merged into [WWCode Manila Python Study Group](https://wwcodemanila.github.io/WWCodeManila-Python/#/) page. 
 
+Refer to the [WWCode Manila Python Study Group](https://wwcodemanila.github.io/WWCodeManila-Python/#/) page for the final / working version.
+
 This is a collaboration between the WWCode Manila Python :snake:, and Game Development :video_game: Study Groups. 
 
 The following should go inside `_sidebar.md`  in our docsify.
@@ -16,5 +18,7 @@ The following should go inside `_sidebar.md`  in our docsify.
   - [Tutorial Part 4](scene4.md)
   - [Tutorial Part 5 - Ending](scene567.md)
 
-[Sample game](game/), draft only.
+Game code and assets [here](http://bit.ly/wwcodemanila-renpy).
+
+
 
