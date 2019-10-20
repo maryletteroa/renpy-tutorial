@@ -22,5 +22,4 @@ Game code and assets:
  - [assets](assets)
  - [game](game)
 
-
-
+Huge thanks to [Alysson](https://github.com/alyssonalvaran) for the Ren'Py ideas and [Porch](https://github.com/porcheeworchee) for the game assets :tada:
